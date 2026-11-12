@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022649350429",
+    "project_id": "lib-app-cpu",
+    "storage_bucket": "lib-app-cpu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022649350429:android:5565de1f1613113be6c9f4",
+        "android_client_info": {
+          "package_name": "com.cpu.libsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zXfo8vEc0Q6lWFzpZe2ugiKVSFP1lyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

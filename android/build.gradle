@@ -11,6 +11,12 @@ buildscript {
         google()
         mavenCentral()
     }
+
+dependencies {
+    // ... existing
+    implementation project(':react-native-nfc-manager')
+    // Firebase is auto-linked with @react-native-firebase
+}
     dependencies {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
@@ -19,3 +25,4 @@ buildscript {
 }
 
 apply plugin: "com.facebook.react.rootproject"
+apply plugin: 'com.google.gms.google-services'
